@@ -9,7 +9,7 @@ import aiofiles
 from pyrogram import filters, Client
 from pyrogram.types import Message
 from reportlab.graphics import renderPM
-from svglib.svglib import svg2rlg
+#from svglib.svglib import svg2rlg
 
 from RAUSHAN.helper.PyroHelpers import ReplyCheck
 from RAUSHAN.helper.aiohttp_helper import AioHttp
