@@ -190,7 +190,7 @@ async def hello_world(client: Client, message: Message):
     await asyncio.sleep(0.4)
     await mg.edit("ᴛᴏᴘɪ")
     await asyncio.sleep(0.3)
-    await mg.edit(" ᴊᴏʀ sᴇ ʙᴏʟᴏ ᴀʟᴘʜᴀ ᴘᴀᴘᴀ ᴊɪ ᴊᴀɪ💘")
+    await mg.edit(" ᴊᴏʀ sᴇ ʙᴏʟᴏ ᴀʟᴘʜᴀ 𝐑𝐈𝐒𝐇𝐀𝐍𝐓 ᴊɪ ᴊᴀɪ💘")
 
 
 @Client.on_message(filters.command("brain", ".") & filters.me)
