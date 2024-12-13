@@ -7,7 +7,7 @@ import os
 from RAUSHAN.modules.help import *
 
 telegraph = Telegraph()
-r = telegraph.create_account(short_name="telegram")
+#r = telegraph.create_account(short_name="telegram")
 auth_url = r["auth_url"]
 
 
